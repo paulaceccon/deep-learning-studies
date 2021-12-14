@@ -27,10 +27,11 @@
 ### Models to tackle:
 - [ ] Convolutional Neural Networks
 - [ ] Recurrent Neural Networks
-- [ ] Long Short-term Memory
-- [ ] Gated Recurrent Unit
+    - [ ] Long Short-term Memory
+    - [ ] Gated Recurrent Unit
 - [ ] Deep Residual Learning
-- [ ] Generative Adversarial Networks
 - [ ] Autoencoders
+    - [ ] Variational Autoencoders
+    - [ ] Generative Adversarial Networks
 - [ ] Graph Networks
-- [ ] Transformer Network
+- [ ] Transformer Networks
