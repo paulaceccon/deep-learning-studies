@@ -1,37 +1,20 @@
-# Deep Learning: Tasks and Models
+# Deep Learning Studies
 
-- [ ] Image Recognition
-- [ ] Object Classification
-    - [ ] YOLO Darknet
-- [ ] Image Denoising
-- [ ] Image Similarity / Re-Identifcation
-  - [ ] Contrastive Loss
-  - [ ] Triplet Loss
-  - [ ] TFSim
-  - [ ] Transformers
-- [ ] Image Segmentation
-  - [ ] U-Net
-- [ ] Style Transfer
-- [ ] Image Captioning
-- [ ] Image Coloring
-- [ ] Image Restoration
-- [ ] Image Super Resolution
-- [ ] Handwritten Recognition
-- [ ] 2D to 3D rendering
-  - NeRF
-- [ ] Speech Recognition
-- [ ] Language Translation
+Exploring deep learning networks, for study purposes.
+
+They are presented through notebooks, so you can understand and visualize any outputs
+without needing to run any code.
 
 
+## Quick Start
 
-### Models to tackle:
-- [ ] Convolutional Neural Networks
-- [ ] Recurrent Neural Networks
-    - [ ] Long Short-term Memory
-    - [ ] Gated Recurrent Unit
-- [ ] Deep Residual Learning
-- [ ] Autoencoders
-    - [ ] Variational Autoencoders
-    - [ ] Generative Adversarial Networks
-- [ ] Graph Networks
-- [ ] Transformer Networks
+### Playing notebooks online (no installation required)
+
+<a href="https://colab.research.google.com/github/paulaceccon/deep-learning-studies/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+### Inspecting notebooks (without executing any code)
+
+* <a href="https://nbviewer.jupyter.org/github/paulaceccon/deep-learning-studies/blob/main/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+
+* [github.com's notebook viewer](https://github.com/paulaceccon/deep-learning-studies/blob/main/index.ipynb) also works, but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
+
