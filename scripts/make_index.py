@@ -45,4 +45,3 @@ def create_notebook(notebooks: list[Path]):
 if __name__ == "__main__":
     notebooks = get_notebooks('./notebooks')
     create_notebook(notebooks)
-
