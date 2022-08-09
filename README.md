@@ -17,3 +17,10 @@ without needing to run any code.
 * <a href="https://nbviewer.jupyter.org/github/paulaceccon/deep-learning-studies/blob/main/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
 * [github.com's notebook viewer](https://github.com/paulaceccon/deep-learning-studies/blob/main/index.ipynb) also works, but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
+
+
+### Some references:
+
+- [Advanced-Deep-Learning-with-Python](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Python)
+- [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947/ref=sr_1_1)
+- [Keras Code Examples: Generative Deep Learning](https://keras.io/examples/generative/)
