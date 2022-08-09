@@ -5,32 +5,40 @@
     - [ ] YOLO Darknet
 - [ ] Image Segmentation
   - [ ] U-Net
-- [ ] Style Transfer
 - [ ] Image Captioning
 - [ ] Image Coloring
 - [ ] Image Restoration
 - [ ] Image Super Resolution
-- [ ] Handwritten Recognition
+- - [ ] Handwritten Recognition
 - [ ] 2D to 3D rendering
   - NeRF
 - [ ] Speech Recognition
 - [ ] Language Translation
+- [ ] Image Similarity / Re-Identification
+- Generative Models
+
+
 
 
 
 ### Models to tackle:
 - [ ] Deep Residual Learning
 - [ ] Siamese Networks
-  - [ ] Task: Image Similarity / Re-Identification
     - [ ] Contrastive Loss
     - [ ] Triplet Loss
     - [ ] TFSim
-- [ ] Generative Models
-  - [x] Autoencoders
-    - [x] Task: Image Denoising
-  - [x] Variational Autoencoders
-    - [x] Task: Image Generation
-  - [ ] Generative Adversarial Networks
-    - [x] DCGAN
+    - Tasks:
+    - [ ] Image Similarity / Re-Identification
 - [ ] Graph Networks
 - [ ] Transformer Networks
+- Generative Models
+  - [x] Autoencoders
+  - [x] Variational Autoencoders
+  - [ ] Generative Adversarial Networks
+    - [x] DCGAN
+    - [x] CycleGAN
+    - [x] Conditional GAN
+  - Tasks:
+  - [x] Image Denoising
+  - [x] Image Generation
+  - [x] Style Transfer
