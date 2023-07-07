@@ -16,6 +16,7 @@
 - [ ] Language Translation
 - [ ] Image Similarity / Re-Identification
 - Generative Models
+  - [ ] Diffusion Models
 
 
 
