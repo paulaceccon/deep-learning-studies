@@ -37,7 +37,7 @@ def create_notebook(root_dir: str) -> None:
     indent = "\t"
     for dir_path, dir_names, filenames in os.walk(root_dir):
         # Skip unwanted files
-        if any(exclude in dir_path for exclude in ["logs", ".ipynb_checkpoints"]):
+        if any(exclude in dir_path for exclude in ["logs", ".ipynb_checkpoints", "__pycache__", "images"]):
             continue
 
         directory_level = dir_path.replace(root_dir, "")
