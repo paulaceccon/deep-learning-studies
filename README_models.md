@@ -31,7 +31,6 @@
     - Tasks:
     - [ ] Image Similarity / Re-Identification
 - [ ] Graph Networks
-- [ ] Transformer Networks
 - Generative Models
   - [x] Autoencoders
   - [x] Variational Autoencoders
@@ -39,6 +38,7 @@
     - [x] DCGAN
     - [x] CycleGAN
     - [x] Conditional GAN
+  - [x] Transformer Networks
   - Tasks:
   - [x] Image Denoising
   - [x] Image Generation
