@@ -15,10 +15,6 @@
 - [ ] Speech Recognition
 - [ ] Language Translation
 - [ ] Image Similarity / Re-Identification
-- Generative Models
-
-
-
 
 
 ### Models to tackle:
@@ -38,6 +34,10 @@
     - [x] DCGAN
     - [x] CycleGAN
     - [x] Conditional GAN
+  - Diffusion Models
+    - [x] DDPM
+    - [ ] DDIM
+    - [ ] Control Guidance
   - Tasks:
   - [x] Image Denoising
   - [x] Image Generation
