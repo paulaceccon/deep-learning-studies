@@ -11,7 +11,7 @@ def to_title(string: str) -> str:
     Returns:
         string as title.
     """
-    keep_uppercase = ["cnn", "gan"]
+    keep_uppercase = ["cnn", "gan", "ddpm", "ddim"]
     str_parts = string.split("_")
     for i, part in enumerate(str_parts):
         if any(keep_upper in part for keep_upper in keep_uppercase):
