@@ -1,6 +1,7 @@
 **/logs
 notebooks/run.py
 poetry.lock
+*.pth
 
 # Jetbrains
 **.idea/
